@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Aniket Chakraborty: AI/ML, Computer Vision and Edge AI" width="100%"/>
+<img src="hero.svg" alt="Aniket Chakraborty: AI/ML, Computer Vision and Edge AI" width="100%"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-aniketchakrabortydev.in-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=0a0f1c)](https://aniketchakrabortydev.in)
-[![LinkedIn](https://img.shields.io/badge/linkedin-aniketchakrabortydev-a78bfa?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0a0f1c)](https://linkedin.com/in/aniketchakrabortydev)
+[![Portfolio](https://img.shields.io/badge/portfolio-aniketchakrabortydev.in-22d3ee?style=for-the-badge&labelColor=1e293b)](https://aniketchakrabortydev.in)
+[![LinkedIn](https://img.shields.io/badge/linkedin-aniketchakrabortydev-a78bfa?style=for-the-badge&labelColor=1e293b)](https://linkedin.com/in/aniketchakrabortydev)
 
 </div>
 
@@ -32,7 +32,7 @@ I don't treat IoT and AI as separate fields. Most interesting problems sit where
 
 ## How I build
 
-<img src="assets/pipeline.svg" alt="Pipeline from sensing to acting, with a measurement feedback loop" width="100%"/>
+<img src="pipeline.svg" alt="Pipeline from sensing to acting, with a measurement feedback loop" width="100%"/>
 
 <br/>
 
@@ -119,9 +119,9 @@ Also working with: computer vision, neural networks, TinyML, OAuth 2.0, REST API
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-N-I-KET/A-N-I-KET/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-N-I-KET/A-N-I-KET/output/github-snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/A-N-I-KET/A-N-I-KET/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aniket-ai-dev/Aniket-ai-dev/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aniket-ai-dev/Aniket-ai-dev/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Aniket-ai-dev/Aniket-ai-dev/output/github-snake.svg"/>
 </picture>
 
 <br/>
