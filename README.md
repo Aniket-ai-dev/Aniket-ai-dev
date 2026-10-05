@@ -113,8 +113,8 @@ Also working with: computer vision, neural networks, TinyML, OAuth 2.0, REST API
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=A-N-I-KET&show_icons=true&hide_border=true&bg_color=0a0f1c&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-N-I-KET&layout=compact&hide_border=true&bg_color=0a0f1c&title_color=22d3ee&text_color=cbd5e1" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aniket-ai-dev&show_icons=true&hide_border=true&bg_color=0a0f1c&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-ai-dev&layout=compact&hide_border=true&bg_color=0a0f1c&title_color=22d3ee&text_color=cbd5e1" alt="Top languages"/>
 
 <br/><br/>
 
